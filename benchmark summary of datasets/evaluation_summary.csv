@@ -1,0 +1,3 @@
+Model,MCQ Accuracy (%),RCM Accuracy (%),VSP MAD (Mean Absolute Difference)
+LLaMA 3.1 ,57.0,53.0,1.763210702341136
+Mistral,54.0,46.0,2.1601010101010107
